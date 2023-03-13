@@ -2,7 +2,6 @@
 
 - 🖥️ estudando engenharia de computação
 - ✍️ Disposto a sempre aprender o novo
-- 😎 Pronouns Ele/Dele
 - 🔥 "O esforço supera o talento"
 
 <div align="center">
