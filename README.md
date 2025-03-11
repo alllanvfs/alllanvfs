@@ -59,7 +59,7 @@
   <a href="https://www.linkedin.com/in/allan-santos-99b058234/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.kaggle.com/yourprofile"> <!-- Add if applicable -->
+  <a href="https://www.kaggle.com/allanvfsantos">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white">
   </a>
 </div>
