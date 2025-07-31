@@ -80,16 +80,6 @@ Minhas principais ferramentas para análise e desenvolvimento:
 
 ---
 
-### 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|---------|-------------|-------------|
-| 💼 **[Nome do Projeto 1](link-para-o-repo)** | Uma breve descrição do que o projeto faz e seu objetivo principal. | `Python`, `Pandas`, `Scikit-learn` |
-| 📈 **[Nome do Projeto 2](link-para-o-repo)** | Análise de dados de vendas para identificar tendências e padrões de consumo. | `SQL`, `Power BI`, `Python` |
-| 🤖 **[Nome do Projeto 3](link-para-o-repo)** | Modelo de Machine Learning para prever a probabilidade de churn de clientes. | `TensorFlow`, `NumPy`, `Flask` |
-
----
-
 ### 📫 Vamos Conectar!
 
 <p align="left">
